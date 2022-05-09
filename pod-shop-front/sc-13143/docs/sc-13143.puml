@@ -1,0 +1,79 @@
+@startuml
+scale .75
+    participant Orders
+    participant CheckStockModal
+    participant OutOfStockModal
+    participant OrderReview
+    participant Backend
+
+    title BEFORE
+
+    Orders-->>CheckStockModal: lets check some stock!
+    activate CheckStockModal
+    group outOfStock/checkIfItemsAreInStock
+        CheckStockModal->Backend: POST /locations/${locationId}/oos/check
+        activate Backend
+        return OutOfStockCheck[]
+
+        group OutOfStockCheck[].length
+            group true
+            CheckStockModal -> OutOfStockModal: OrderReview
+            deactivate CheckStockModal
+            activate OutOfStockModal
+            OutOfStockModal -> OutOfStockModal: display continue without item option
+            OutOfStockModal -> OrderReview: OrderReview
+            deactivate OutOfStockModal
+            activate OrderReview
+
+            else false
+            CheckStockModal-->OrderReview: OrderReview
+            deactivate OrderReview
+
+        end
+
+    end
+
+    OrderReview -> done: le' fin!
+
+
+
+    newpage AFTER
+    Orders-->>CheckStockModal: lets check some stock!
+    activate CheckStockModal
+
+    group outOfStock/checkIfItemsAreInStock
+        CheckStockModal->Backend: POST /locations/${locationId}/oos/check
+        activate Backend
+        return OutOfStockCheck[]
+        CheckStockModal-[#red]>s3_Bucket: <color:#FF0000>GET /public-location/OOSRM</color>
+        activate s3_Bucket
+        return <color:#FF0000>OOSRM[]</color>
+
+        group OutOfStockCheck[].length
+            group false
+                CheckStockModal-->OrderReview: OrderReview
+                activate OrderReview
+
+            else true
+                CheckStockModal -> OutOfStockModal: OutOfStockModal
+                deactivate CheckStockModal
+                activate OutOfStockModal
+                OutOfStockModal -> OutOfStockModal: display continue without \nitem option (tbd)
+                OutOfStockModal -[dotted,#red,#red]> OutOfStockModal: <color:#FF0000>new UI design for substitions</color>
+                group #FFCCCB if substitutions
+                    OutOfStockModal-[#red]>Backend: POST /locations/${encryptedLocationId}/skus \n {product_id: productId}
+                    activate Backend
+                    return Sku
+                end
+                OutOfStockModal-[#red]>OutOfStockModal: update sku quantities
+                OutOfStockModal -> OrderReview: OrderReview
+                deactivate OutOfStockModal
+                activate OrderReview
+
+        end
+
+    end
+
+    OrderReview -> done: le' fin!
+
+@enduml
