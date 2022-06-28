@@ -1,0 +1,49 @@
+@startuml
+!procedure VuexApi($api, $apiLink, $resp, $respLink, $end="Api")
+    Vuex -> $end ++: [[$apiLink $api]]
+'    TODO how to escape chars in link?
+'    return [[$respLink $resp]]
+    return $resp
+!endprocedure
+!procedure LinkIt($text, $link)
+    [[$link $text]]
+!endprocedure
+
+scale 1
+    box "in-store-web-app"
+    participant UX
+    participant Vuex
+    participant OrderHelper
+    end box
+    participant Api as "od-so-api "
+
+
+    == Initialization ==
+    activate UX
+    UX -> Api ++ : [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#e787aedcaeb446208bbb9f47ec69aed8 GET /users/me]]
+    return [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#33f156336f064c3ab30bfff452404f11: UserInfo]]
+    UX -> Vuex ++ : $store.dispatch('location/getLocations')
+
+    Vuex -> Api: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#06cc27bea8744e3dbfce148f0dcf62e2 GET /locations]]
+    activate Api
+'    TODO how to escape chars in link?
+    return [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#06cc27bea8744e3dbfce148f0dcf62e2 Array<Locations>]]
+    Vuex -> Vuex: commit(locationsList)
+    Vuex -> Vuex: LocationState setInitialLocation
+    deactivate Vuex
+    Vuex -> UX : initial location set
+
+
+    newpage Standing orders
+    group display one time order grid
+        UX -> Api: GET /locations/{locationId}/orders/for_standing_orders
+        activate Api
+        return
+    end
+    group update
+        UX -> Api: PUT /locations/{locationId}/standing_orders/v2
+        activate Api
+        return
+    end
+
+@enduml
