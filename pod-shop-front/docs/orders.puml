@@ -17,7 +17,7 @@ scale 1
     end box
     participant Api as "od-so-api "
 
-    title Ordering Sequences
+    title 1 - Ordering Sequences
 
     == Initialization ==
     activate UX
@@ -56,7 +56,7 @@ scale 1
 '/
 
 
-    newpage One Time Orders (loading)
+    newpage 2 - One Time Orders (loading)
     activate UX
     UX -> Vuex ++ : $store.dispatch('orders/setPageToOrderGrid', \n\t { viewingStandingOrder, encryptedLocationId }\n)
 
@@ -75,7 +75,7 @@ scale 1
     end
     deactivate Vuex
 
-    newpage Review Order
+    newpage 3 - Review Order
 
     UX -> Vuex ++ : $store.dispatch('orders/mkInputPropsMapForWeeksOfOrdersOnHand')
     return InputProps
@@ -104,7 +104,7 @@ scale 1
     end
 
 
-    newpage Update Order
+    newpage 4 - Update Order
     group Update Order
         activate Api
         UX -> Vuex: Update Order
@@ -138,7 +138,7 @@ scale 1
 
 
 
-    newpage Standing orders
+    newpage 5- Standing orders
     group display one time order grid
         UX -> Api: GET /locations/{locationId}/orders/for_standing_orders
         activate Api
