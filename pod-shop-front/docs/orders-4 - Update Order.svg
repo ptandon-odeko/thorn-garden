@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="766px" preserveAspectRatio="none" style="width:1210px;height:766px;background:#FFFFFF;" version="1.1" viewBox="0 0 1210 766" width="1210px" zoomAndPan="magnify"><defs/><g><rect height="26.4883" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="134" x="534" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="124" x="539" y="28.5352">4 - Update Order</text><rect fill="#DDDDDD" height="717.1875" style="stroke:#181818;stroke-width:0.5;" width="787" x="26" y="43.4883"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="125" x="357" y="56.0566">in-store-web-app</text><rect fill="#FFFFFF" height="47.6211" style="stroke:#181818;stroke-width:1.0;" width="10" x="41.5" y="104.2871"/><rect fill="#FFFFFF" height="477.3477" style="stroke:#181818;stroke-width:1.0;" width="10" x="41.5" y="239.8398"/><rect fill="#FFFFFF" height="117.9316" style="stroke:#181818;stroke-width:1.0;" width="10" x="511.5" y="151.9082"/><rect fill="#FFFFFF" height="236.1738" style="stroke:#181818;stroke-width:1.0;" width="10" x="511.5" y="323.4609"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="926.5" y="181.2188"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="926.5" y="419.3926"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="926.5" y="509.3242"/><rect height="594.9004" style="stroke:#000000;stroke-width:1.5;fill:none;" width="1074" x="10" y="113.2871"/><rect height="282.7949" style="stroke:#000000;stroke-width:1.5;fill:none;" width="1054" x="20" y="284.8398"/><rect height="75.9316" style="stroke:#000000;stroke-width:1.5;fill:none;" width="582" x="482" y="380.7715"/><rect height="75.9316" style="stroke:#000000;stroke-width:1.5;fill:none;" width="504" x="482" y="470.7031"/><rect height="77.2422" style="stroke:#000000;stroke-width:1.5;fill:none;" width="787.5" x="20" y="581.6348"/><line style="stroke:#181818;stroke-width:0.5;fill:none;stroke-dasharray:5.0,5.0;" x1="46" x2="46" y1="94.2871" y2="726.1875"/><line style="stroke:#181818;stroke-width:0.5;fill:none;stroke-dasharray:5.0,5.0;" x1="516" x2="516" y1="94.2871" y2="726.1875"/><line style="stroke:#181818;stroke-width:0.5;fill:none;stroke-dasharray:5.0,5.0;" x1="759" x2="759" y1="94.2871" y2="726.1875"/><line style="stroke:#181818;stroke-width:0.5;fill:none;stroke-dasharray:5.0,5.0;" x1="931" x2="931" y1="94.2871" y2="726.1875"/><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="33" x="30" y="62.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="37" y="83.334">UX</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="33" x="30" y="725.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="37" y="745.7227">UX</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="49" x="492" y="62.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="499" y="83.334">Vuex</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="49" x="492" y="725.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="499" y="745.7227">Vuex</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="99" x="710" y="62.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="717" y="83.334">OrderHelper</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="99" x="710" y="725.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="717" y="745.7227">OrderHelper</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="89" x="887" y="62.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="894" y="83.334">od-so-api</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="89" x="887" y="725.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="894" y="745.7227">od-so-api</text><rect fill="#FFFFFF" height="47.6211" style="stroke:#181818;stroke-width:1.0;" width="10" x="41.5" y="104.2871"/><rect fill="#FFFFFF" height="477.3477" style="stroke:#181818;stroke-width:1.0;" width="10" x="41.5" y="239.8398"/><rect fill="#FFFFFF" height="117.9316" style="stroke:#181818;stroke-width:1.0;" width="10" x="511.5" y="151.9082"/><rect fill="#FFFFFF" height="236.1738" style="stroke:#181818;stroke-width:1.0;" width="10" x="511.5" y="323.4609"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="926.5" y="181.2188"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="926.5" y="419.3926"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="926.5" y="509.3242"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="0" x2="1203" y1="105.2871" y2="105.2871"/><path d="M10,113.2871 L148,113.2871 L148,120.5977 L138,130.5977 L10,130.5977 L10,113.2871 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.5;"/><rect fill="none" height="594.9004" style="stroke:#000000;stroke-width:1.5;" width="1074" x="10" y="113.2871"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="93" x="25" y="126.8555">Update Order</text><polygon fill="#181818" points="499.5,147.9082,509.5,151.9082,499.5,155.9082,503.5,151.9082" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="46.5" x2="505.5" y1="151.9082" y2="151.9082"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="53.5" y="147.166">Update Order</text><polygon fill="#181818" points="914.5,177.2188,924.5,181.2188,914.5,185.2188,918.5,181.2188" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="521.5" x2="920.5" y1="181.2188" y2="181.2188"/><a href="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#14df1b158feb4a178dc234d225e70dbc" target="_top" title="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#14df1b158feb4a178dc234d225e70dbc" xlink:actuate="onRequest" xlink:href="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#14df1b158feb4a178dc234d225e70dbc" xlink:show="new" xlink:title="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#14df1b158feb4a178dc234d225e70dbc" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="218" x="528.5" y="176.4766">PUT /locations/{locationId}/orders</text></a><polygon fill="#181818" points="532.5,206.5293,522.5,210.5293,532.5,214.5293,528.5,210.5293" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="526.5" x2="930.5" y1="210.5293" y2="210.5293"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="538.5" y="205.7871">UpsertOrdersResponse</text><polygon fill="#181818" points="62.5,235.8398,52.5,239.8398,62.5,243.8398,58.5,239.8398" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="56.5" x2="510.5" y1="239.8398" y2="239.8398"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="68.5" y="235.0977">UpsertOrdersResponse</text><path d="M20,284.8398 L411,284.8398 L411,292.1504 L401,302.1504 L20,302.1504 L20,284.8398 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.5;"/><rect fill="none" height="282.7949" style="stroke:#000000;stroke-width:1.5;" width="1054" x="20" y="284.8398"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="346" x="35" y="298.4082">$store.dispatch('orders/onUpdateOrder', response)</text><polygon fill="#181818" points="499.5,319.4609,509.5,323.4609,499.5,327.4609,503.5,323.4609" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="51.5" x2="505.5" y1="323.4609" y2="323.4609"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="319" x="58.5" y="318.7188">$store.dispatch('orders/onUpdateOrder', response)</text><line style="stroke:#181818;stroke-width:1.0;" x1="521.5" x2="563.5" y1="352.7715" y2="352.7715"/><line style="stroke:#181818;stroke-width:1.0;" x1="563.5" x2="563.5" y1="352.7715" y2="365.7715"/><line style="stroke:#181818;stroke-width:1.0;" x1="522.5" x2="563.5" y1="365.7715" y2="365.7715"/><polygon fill="#181818" points="532.5,361.7715,522.5,365.7715,532.5,369.7715,528.5,365.7715" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="219" x="528.5" y="348.0293">$store.dispatch('orders/resetPage')</text><path d="M482,380.7715 L727,380.7715 L727,388.082 L717,398.082 L482,398.082 L482,380.7715 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.5;"/><rect fill="none" height="75.9316" style="stroke:#000000;stroke-width:1.5;" width="582" x="482" y="380.7715"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="192" x="497" y="394.3398">Get skus for current location</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="317" x="742" y="393.4063">[$store.dispatch('skus/getSkus', { encryptedLocationId })]</text><polygon fill="#181818" points="914.5,415.3926,924.5,419.3926,914.5,423.3926,918.5,419.3926" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="521.5" x2="920.5" y1="419.3926" y2="419.3926"/><a href="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54" target="_top" title="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54" xlink:actuate="onRequest" xlink:href="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54" xlink:show="new" xlink:title="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="208" x="528.5" y="414.6504">GET /locations/{locationId}/skus</text></a><polygon fill="#181818" points="532.5,444.7031,522.5,448.7031,532.5,452.7031,528.5,448.7031" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="526.5" x2="930.5" y1="448.7031" y2="448.7031"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="273" x="538.5" y="443.9609">SkuState SET_SKUS_PRODUCTS Array&lt;Sku&gt;</text><path d="M482,470.7031 L615,470.7031 L615,478.0137 L605,488.0137 L482,488.0137 L482,470.7031 " fill="#EEEEEE" style="stroke:#000000;stroke-width:1.5;"/><rect fill="none" height="75.9316" style="stroke:#000000;stroke-width:1.5;" width="504" x="482" y="470.7031"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="84" x="497" y="484.2715">Load Orders</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="204" x="630" y="483.3379">[$store.dispatch('orders/getOrders')]</text><polygon fill="#181818" points="914.5,505.3242,924.5,509.3242,914.5,513.3242,918.5,509.3242" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="521.5" x2="920.5" y1="509.3242" y2="509.3242"/><a href="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4" target="_top" title="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4" xlink:actuate="onRequest" xlink:href="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4" xlink:show="new" xlink:title="https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="386" x="528.5" y="504.582">GET /locations/{locationId}/orders?start_date=YYYY-MM-DD</text></a><polygon fill="#181818" points="532.5,534.6348,522.5,538.6348,532.5,542.6348,528.5,538.6348" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="526.5" x2="930.5" y1="538.6348" y2="538.6348"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="248" x="538.5" y="533.8926">OrderState SET_ORDERS Array&lt;Orders&gt;</text><polygon fill="#181818" points="62.5,555.6348,52.5,559.6348,62.5,563.6348,58.5,559.6348" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="56.5" x2="515.5" y1="559.6348" y2="559.6348"/><path d="M20,581.6348 L82,581.6348 L82,588.9453 L72,598.9453 L20,598.9453 L20,581.6348 " fill="#FFD700" style="stroke:#000000;stroke-width:1.5;"/><rect fill="none" height="77.2422" style="stroke:#000000;stroke-width:1.5;" width="787.5" x="20" y="581.6348"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="17" x="35" y="595.2031">alt</text><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="162" x="97" y="594.2695">[current location has Orders]</text><polygon fill="#181818" points="504.5,646.877,514.5,650.877,504.5,654.877,508.5,650.877" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="51.5" x2="510.5" y1="650.877" y2="650.877"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="334" x="58.5" y="615.5137">$store.commit('location/SET_CURRENT_LOCATION', {</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="249" x="62.5" y="630.8242">...this.currentLocation, has_orders: true</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="58.5" y="646.1348">})</text><path d="M521,616.2559 L521,641.2559 L792,641.2559 L792,626.2559 L782,616.2559 L521,616.2559 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M782,616.2559 L782,626.2559 L792,626.2559 L782,616.2559 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="250" x="527" y="633.8242">could move to action for "Load Orders"?</text><line style="stroke:#181818;stroke-width:1.0;" x1="51.5" x2="93.5" y1="687.1875" y2="687.1875"/><line style="stroke:#181818;stroke-width:1.0;" x1="93.5" x2="93.5" y1="687.1875" y2="700.1875"/><line style="stroke:#181818;stroke-width:1.0;" x1="52.5" x2="93.5" y1="700.1875" y2="700.1875"/><polygon fill="#181818" points="62.5,696.1875,52.5,700.1875,62.5,704.1875,58.5,700.1875" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="159" x="58.5" y="682.4453">go to Order Confirmation</text><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="0" x2="1203" y1="715.1875" y2="715.1875"/><!--MD5=[9d809eebd937602a0415544afb157e5d]
+@startuml
+!procedure VuexApi($api, $apiLink, $resp, $respLink, $end="Api")
+    Vuex -> $end ++: [[$apiLink $api]]
+'    TODO how to escape chars in link?
+'    return [[$respLink $resp]]
+    return $resp
+!endprocedure
+!procedure LinkIt($text, $link)
+    [[$link $text]]
+!endprocedure
+
+scale 1
+    box "in-store-web-app"
+    participant UX
+    participant Vuex
+    participant OrderHelper
+    end box
+    participant Api as "od-so-api "
+
+    title 1 - Ordering Sequences
+
+    == Initialization ==
+    activate UX
+    UX -> Api ++ : [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#e787aedcaeb446208bbb9f47ec69aed8 GET /users/me]]
+    return [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#33f156336f064c3ab30bfff452404f11: UserInfo]]
+    UX -> Vuex ++ : $store.dispatch('location/getLocations')
+
+    Vuex -> Api: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#06cc27bea8744e3dbfce148f0dcf62e2 GET /locations]]
+    activate Api
+'    TODO how to escape chars in link?
+    return [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#06cc27bea8744e3dbfce148f0dcf62e2 Array<Locations>]]
+    Vuex -> Vuex: commit(locationsList)
+    Vuex -> Vuex: LocationState setInitialLocation
+    deactivate Vuex
+    Vuex -> UX : initial location set
+
+    newpage On location change
+    UX ->  Vuex ++ : LocationState setInitialLocation
+    group Show Unsaved Modal?
+        Vuex ->  OrderHelper ++ : hasNewQtys
+        return : true / false
+        Vuex -> UX : show UnsavedOrdersModal
+        deactivate Vuex
+    end
+
+    group Show Payment Failures modal?
+        UX -> Vuex ++ : $store.dispatch('accountStatus/getPaymentFailures', encrypted_id)
+        VuexApi("GET locations/${encryptedLocationId}/recent_payment_failures", "", "LocationPaymentFailures", "")
+        return true / false
+        deactivate Vuex
+    end
+'    return location set
+
+
+/'
+'/
+
+
+    newpage 2 - One Time Orders (loading)
+    activate UX
+    UX -> Vuex ++ : $store.dispatch('orders/setPageToOrderGrid', \n\t { viewingStandingOrder, encryptedLocationId }\n)
+
+    group Get last update order timestamp [$store.dispatch('orders/getLastUpdatedDateTime', { encryptedLocationId })]
+        VuexApi("GET /locations/{locationId}/orders/last_updated", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#343e67dbfe3842fdbcc12c4fe55b6905",  "OrderState SET_LAST_UPDATED timestamap", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bef8dcffc86a4c348abddf59b7a8594a")
+    end
+
+    group Get skus for current location  [$store.dispatch('skus/getSkus', { encryptedLocationId })]
+        VuexApi("GET /locations/{locationId}/skus", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54", "SkuState SET_SKUS_PRODUCTS Array<Sku>", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c8ae870f13d74759b32a08aea196b828")
+    end
+
+    Vuex -> Vuex : "OrderState SELECT_DATE setDate"
+
+    group Load Orders [$store.dispatch('getOrders', { encryptedLocationId })]
+        VuexApi("GET /locations/{locationId}/orders?start_date=YYYY-MM-DD", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4", "OrderState SET_ORDERS Array<Orders>", "")
+    end
+    deactivate Vuex
+
+    newpage 3 - Review Order
+
+    UX -> Vuex ++ : $store.dispatch('orders/mkInputPropsMapForWeeksOfOrdersOnHand')
+    return InputProps
+
+
+    group isRequestingMoreItems ?
+        UX -> Vuex ++ : startOutOfStockFlow
+        Vuex -> Api ++: LinkIt("POST /locations/{locationId}/oos/check", "https://www.notion.so/odeko/243e2d40ebb24ffc87f72b0ad169bc11?v=2249b95c7fdf45a2bda4136560ee6576&p=2f17504231bd474da1e6ab6bfcccf55d")
+
+        alt#Gold #Pink Failure:
+            Api -> Vuex : OOS items.length > 0
+            Vuex -> UX ++ : show OOS Modal
+            deactivate Vuex
+            UX -> UX : todo for OOS rec
+            deactivate UX
+        else #LightBlue Successful case
+            Api -> Vuex ++ : OOS_items.length === 0
+            deactivate Api
+            Vuex -> UX:
+            deactivate Vuex
+            UX -> UX: forward to order review
+
+
+        end
+'        ignore
+    end
+
+
+    newpage 4 - Update Order
+    group Update Order
+        activate Api
+        UX -> Vuex: Update Order
+        deactivate UX
+        activate Vuex
+        VuexApi("PUT /locations/{locationId}/orders", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#14df1b158feb4a178dc234d225e70dbc", "UpsertOrdersResponse", "")
+        Vuex -> UX ++ : UpsertOrdersResponse
+        deactivate Vuex
+
+        group $store.dispatch('orders/onUpdateOrder', response)
+            UX -> Vuex ++ : $store.dispatch('orders/onUpdateOrder', response)
+            Vuex -> Vuex: $store.dispatch('orders/resetPage')
+
+            group Get skus for current location  [$store.dispatch('skus/getSkus', { encryptedLocationId })]
+                VuexApi("GET /locations/{locationId}/skus", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54", "SkuState SET_SKUS_PRODUCTS Array<Sku>", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c8ae870f13d74759b32a08aea196b828")
+            end
+
+            group Load Orders [$store.dispatch('orders/getOrders')]
+                VuexApi("GET /locations/{locationId}/orders?start_date=YYYY-MM-DD", "https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4", "OrderState SET_ORDERS Array<Orders>", "")
+            end
+            return
+        end
+
+        alt#Gold current location has Orders
+            UX -> Vuex : $store.commit('location/SET_CURRENT_LOCATION', {\n ...this.currentLocation, has_orders: true \n})
+            note right: could move to action for "Load Orders"?
+        end
+
+        UX -> UX : go to Order Confirmation
+    end
+
+
+
+    newpage 5- Standing orders
+    group display one time order grid
+        UX -> Api: GET /locations/{locationId}/orders/for_standing_orders
+        activate Api
+        return
+    end
+    group update
+        UX -> Api: PUT /locations/{locationId}/standing_orders/v2
+        activate Api
+        return
+    end
+
+@enduml
+
+@startuml
+
+scale 1
+    box "in-store-web-app"
+    participant UX
+    participant Vuex
+    participant OrderHelper
+    end box
+    participant Api as "od-so-api "
+
+    title 1 - Ordering Sequences
+
+    == Initialization ==
+    activate UX
+    UX -> Api ++ : [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#e787aedcaeb446208bbb9f47ec69aed8 GET /users/me]]
+    return [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#33f156336f064c3ab30bfff452404f11: UserInfo]]
+    UX -> Vuex ++ : $store.dispatch('location/getLocations')
+
+    Vuex -> Api: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#06cc27bea8744e3dbfce148f0dcf62e2 GET /locations]]
+    activate Api
+    return [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#06cc27bea8744e3dbfce148f0dcf62e2 Array<Locations>]]
+    Vuex -> Vuex: commit(locationsList)
+    Vuex -> Vuex: LocationState setInitialLocation
+    deactivate Vuex
+    Vuex -> UX : initial location set
+
+    newpage On location change
+    UX ->  Vuex ++ : LocationState setInitialLocation
+    group Show Unsaved Modal?
+        Vuex ->  OrderHelper ++ : hasNewQtys
+        return : true / false
+        Vuex -> UX : show UnsavedOrdersModal
+        deactivate Vuex
+    end
+
+    group Show Payment Failures modal?
+        UX -> Vuex ++ : $store.dispatch('accountStatus/getPaymentFailures', encrypted_id)
+            Vuex -> Api ++: [[ GET locations/${encryptedLocationId}/recent_payment_failures]]
+    return LocationPaymentFailures
+        return true / false
+        deactivate Vuex
+    end
+
+
+
+
+    newpage 2 - One Time Orders (loading)
+    activate UX
+    UX -> Vuex ++ : $store.dispatch('orders/setPageToOrderGrid', \n\t { viewingStandingOrder, encryptedLocationId }\n)
+
+    group Get last update order timestamp [$store.dispatch('orders/getLastUpdatedDateTime', { encryptedLocationId })]
+            Vuex -> Api ++: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#343e67dbfe3842fdbcc12c4fe55b6905 GET /locations/{locationId}/orders/last_updated]]
+    return OrderState SET_LAST_UPDATED timestamap
+    end
+
+    group Get skus for current location  [$store.dispatch('skus/getSkus', { encryptedLocationId })]
+            Vuex -> Api ++: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54 GET /locations/{locationId}/skus]]
+    return SkuState SET_SKUS_PRODUCTS Array<Sku>
+    end
+
+    Vuex -> Vuex : "OrderState SELECT_DATE setDate"
+
+    group Load Orders [$store.dispatch('getOrders', { encryptedLocationId })]
+            Vuex -> Api ++: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4 GET /locations/{locationId}/orders?start_date=YYYY-MM-DD]]
+    return OrderState SET_ORDERS Array<Orders>
+    end
+    deactivate Vuex
+
+    newpage 3 - Review Order
+
+    UX -> Vuex ++ : $store.dispatch('orders/mkInputPropsMapForWeeksOfOrdersOnHand')
+    return InputProps
+
+
+    group isRequestingMoreItems ?
+        UX -> Vuex ++ : startOutOfStockFlow
+        Vuex -> Api ++:     [[https://www.notion.so/odeko/243e2d40ebb24ffc87f72b0ad169bc11?v=2249b95c7fdf45a2bda4136560ee6576&p=2f17504231bd474da1e6ab6bfcccf55d POST /locations/{locationId}/oos/check]]
+
+        alt#Gold #Pink Failure:
+            Api -> Vuex : OOS items.length > 0
+            Vuex -> UX ++ : show OOS Modal
+            deactivate Vuex
+            UX -> UX : todo for OOS rec
+            deactivate UX
+        else #LightBlue Successful case
+            Api -> Vuex ++ : OOS_items.length === 0
+            deactivate Api
+            Vuex -> UX:
+            deactivate Vuex
+            UX -> UX: forward to order review
+
+
+        end
+    end
+
+
+    newpage 4 - Update Order
+    group Update Order
+        activate Api
+        UX -> Vuex: Update Order
+        deactivate UX
+        activate Vuex
+            Vuex -> Api ++: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#14df1b158feb4a178dc234d225e70dbc PUT /locations/{locationId}/orders]]
+    return UpsertOrdersResponse
+        Vuex -> UX ++ : UpsertOrdersResponse
+        deactivate Vuex
+
+        group $store.dispatch('orders/onUpdateOrder', response)
+            UX -> Vuex ++ : $store.dispatch('orders/onUpdateOrder', response)
+            Vuex -> Vuex: $store.dispatch('orders/resetPage')
+
+            group Get skus for current location  [$store.dispatch('skus/getSkus', { encryptedLocationId })]
+                    Vuex -> Api ++: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#bfbfe5d95b4f4c9abdd2776e40855e54 GET /locations/{locationId}/skus]]
+    return SkuState SET_SKUS_PRODUCTS Array<Sku>
+            end
+
+            group Load Orders [$store.dispatch('orders/getOrders')]
+                    Vuex -> Api ++: [[https://www.notion.so/odeko/SO-API-api-docs-2f17504231bd474da1e6ab6bfcccf55d#c7da1cdbc409434cab8dd3945f7111b4 GET /locations/{locationId}/orders?start_date=YYYY-MM-DD]]
+    return OrderState SET_ORDERS Array<Orders>
+            end
+            return
+        end
+
+        alt#Gold current location has Orders
+            UX -> Vuex : $store.commit('location/SET_CURRENT_LOCATION', {\n ...this.currentLocation, has_orders: true \n})
+            note right: could move to action for "Load Orders"?
+        end
+
+        UX -> UX : go to Order Confirmation
+    end
+
+
+
+    newpage 5- Standing orders
+    group display one time order grid
+        UX -> Api: GET /locations/{locationId}/orders/for_standing_orders
+        activate Api
+        return
+    end
+    group update
+        UX -> Api: PUT /locations/{locationId}/standing_orders/v2
+        activate Api
+        return
+    end
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 06:55:52 EDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
