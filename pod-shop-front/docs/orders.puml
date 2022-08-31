@@ -15,9 +15,9 @@ scale 1
     participant Vuex
     participant OrderHelper
     end box
-    participant Api as "od-so-api "
+    participant Api as "isaa/\nod-so-api"
 
-    title 1 - Ordering Sequences
+    title 1a - Ordering Sequences
 
     == Initialization ==
     activate UX
@@ -34,7 +34,7 @@ scale 1
     deactivate Vuex
     Vuex -> UX : initial location set
 
-    newpage On location change
+    newpage 1b - On location change
     UX ->  Vuex ++ : LocationState setInitialLocation
     group Show Unsaved Modal?
         Vuex ->  OrderHelper ++ : hasNewQtys
@@ -89,7 +89,7 @@ scale 1
             Api -> Vuex : OOS items.length > 0
             Vuex -> UX ++ : show OOS Modal
             deactivate Vuex
-            UX -> UX : todo for OOS rec
+            UX -> UX : User acknowledge (may choose a reccomendation)
             deactivate UX
         else #LightBlue Successful case
             Api -> Vuex ++ : OOS_items.length === 0
